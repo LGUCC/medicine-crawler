@@ -76,7 +76,7 @@ export function chunkifyArray<T>(arr: T[], chunks: number) {
   return res;
 }
 
-browser.close();
+
 
 import { load } from "cheerio";
 
@@ -125,4 +125,5 @@ async function scrapEachPages() {
 }
 
 // await scrapByAlphabet();
+browser.close();
 await scrapEachPages();
