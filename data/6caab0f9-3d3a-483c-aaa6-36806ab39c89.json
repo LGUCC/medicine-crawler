@@ -1,0 +1,19 @@
+{
+  "name": "Apidra 100IU injection",
+  "generic": "Insulin Glulisine (100IU)",
+  "brand": "Sanofi",
+  "images": [
+    "https://product.dawaai.pk/800/sanapi20812_1644239699_1.webp",
+    "https://product.dawaai.pk/800/sanapi20812_1644239699_1.png",
+    "https://product.dawaai.pk/800/sanapi20812_1644239699_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/apidra-1-20812.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
