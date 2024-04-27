@@ -5,7 +5,10 @@ import { exec } from "child_process";
 // ======================================== UTIL ==========================================
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
-const commitChanges = () => exec("./commit.bash")
+const commitChanges = () => exec("bash commit.bash")
+
+commitChanges();
+process.exit(0);
 
 // ======================================== UTIL ==========================================
 
