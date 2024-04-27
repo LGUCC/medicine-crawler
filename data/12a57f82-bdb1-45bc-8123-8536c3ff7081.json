@@ -1,0 +1,20 @@
+{
+  "name": "Ascard 150mg tablet",
+  "generic": "Aspirin (150mg)",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atcasc273_1628676277_6.webp",
+    "https://product.dawaai.pk/800/atcasc273_1628676277_6.png",
+    "https://product.dawaai.pk/800/atcasc273_1628676277_6.jpg"
+  ],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/ascard-273.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
