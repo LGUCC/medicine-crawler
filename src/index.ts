@@ -8,8 +8,8 @@ const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 const commitChanges = () => exec("bash commit.bash")
 
 commitChanges();
-process.exit(0);
-//
+
+
 // ======================================== UTIL ==========================================
 
 // ****************************************************************************************
@@ -126,9 +126,11 @@ async function scrapEachPages() {
       await sleep(SLEEP_DELAY);
       leftPages -= 1;
     }))
+    commitChanges();
   }
 }
 
-// await scrapByAlphabet();
+await scrapByAlphabet();
+commitChanges();
 browser.close();
 await scrapEachPages();
