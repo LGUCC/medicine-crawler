@@ -1,9 +1,11 @@
 import puppeteer from "puppeteer";
 import { v4 as uuidv4 } from 'uuid';
+import { exec } from "child_process";
 
 // ======================================== UTIL ==========================================
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+const commitChanges = () => exec("./commit.bash")
 
 // ======================================== UTIL ==========================================
 
