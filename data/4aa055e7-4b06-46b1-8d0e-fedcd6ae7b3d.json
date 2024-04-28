@@ -1,0 +1,19 @@
+{
+  "name": "Victoza 6mg/ml injection",
+  "generic": "Liraglutide (6mg)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novvic22612_1.webp",
+    "https://product.dawaai.pk/800/novvic22612_1.png",
+    "https://product.dawaai.pk/800/novvic22612_1.jpg"
+  ],
+  "labels": [
+    "Obesity",
+    "Type 2 diabetes",
+    "Hypoglycaemic excluding Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/victoza-22612.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
