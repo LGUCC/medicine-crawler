@@ -1,0 +1,17 @@
+{
+  "name": "Neucef DS",
+  "generic": "Cefadroxil (250mg|5ml)",
+  "brand": "Sami",
+  "images": [
+    "https://product.dawaai.pk/800/samneu25001_1643703682_1.webp",
+    "https://product.dawaai.pk/800/samneu25001_1643703682_1.png",
+    "https://product.dawaai.pk/800/samneu25001_1643703682_1.jpg"
+  ],
+  "labels": [
+    "Cephalosporin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/neucef-3-25001.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
