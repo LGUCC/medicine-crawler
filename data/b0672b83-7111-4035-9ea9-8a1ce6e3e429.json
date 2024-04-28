@@ -1,0 +1,19 @@
+{
+  "name": "Norvasc 5mg tablet",
+  "generic": "Amlodipine (5mg)",
+  "brand": "Pfizer",
+  "images": [
+    "https://product.dawaai.pk/800/pfinor22627_1639981580_2.webp",
+    "https://product.dawaai.pk/800/pfinor22627_1639981580_2.png",
+    "https://product.dawaai.pk/800/pfinor22627_1639981580_2.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "Calcium Antagonist"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/norvasc-22627.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
