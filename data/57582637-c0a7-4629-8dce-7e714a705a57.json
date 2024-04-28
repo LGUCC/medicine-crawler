@@ -1,0 +1,19 @@
+{
+  "name": "Actrapid HM Vial 100IU injection",
+  "generic": "Insulin Regular (100IU)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novact20809_1.webp",
+    "https://product.dawaai.pk/800/novact20809_1.png",
+    "https://product.dawaai.pk/800/novact20809_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/actrapid-hm-20809.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Amper 4mg/5mg tablet",
+  "generic": "Perindopril (4mg)Amlodipine (5mg)",
+  "brand": "Nexpharm",
+  "images": [
+    "https://product.dawaai.pk/800/nexamp20998_1.webp",
+    "https://product.dawaai.pk/800/nexamp20998_1.png",
+    "https://product.dawaai.pk/800/nexamp20998_1.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "ACE Inhibitor"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/amper-1-20998.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
