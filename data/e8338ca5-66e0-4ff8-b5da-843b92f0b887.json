@@ -1,0 +1,19 @@
+{
+  "name": "Tyrillin  syrup",
+  "generic": "diphenhydramine",
+  "brand": "Titlis Pharma",
+  "images": [
+    "https://product.dawaai.pk/800/tit47019_1633931710_1.webp",
+    "https://product.dawaai.pk/800/tit47019_1633931710_1.png",
+    "https://product.dawaai.pk/800/tit47019_1633931710_1.jpg"
+  ],
+  "labels": [
+    "Allergy",
+    "Cough suppression",
+    "Expectorant"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/-47019.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
