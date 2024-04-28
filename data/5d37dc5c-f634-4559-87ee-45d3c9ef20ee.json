@@ -1,0 +1,19 @@
+{
+  "name": "Tixylix  syrup",
+  "generic": "Promethazine HCL",
+  "brand": "Sanofi",
+  "images": [
+    "https://product.dawaai.pk/800/tix1713_1634385006_6.webp",
+    "https://product.dawaai.pk/800/tix1713_1634385006_6.png",
+    "https://product.dawaai.pk/800/tix1713_1634385006_6.jpg"
+  ],
+  "labels": [
+    "Nausea",
+    "Vertigo",
+    "Cough Sedative"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/tixylix-1713.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
