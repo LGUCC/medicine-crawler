@@ -1,0 +1,19 @@
+{
+  "name": "Acemed 100mg tablet",
+  "generic": "Aceclofenac (100mg)",
+  "brand": "Novartis",
+  "images": [
+    "https://product.dawaai.pk/800/novace33887_1627895418_1.webp",
+    "https://product.dawaai.pk/800/novace33887_1627895418_1.png",
+    "https://product.dawaai.pk/800/novace33887_1627895418_1.jpg"
+  ],
+  "labels": [
+    "Headache",
+    "Arthralgia",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/acemed-33887.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
