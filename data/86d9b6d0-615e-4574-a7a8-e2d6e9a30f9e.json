@@ -1,0 +1,18 @@
+{
+  "name": "Panadol 500 mg tablet",
+  "generic": "Paracetamol (500 mg)",
+  "brand": "GSK Consumer Healthcare",
+  "images": [
+    "https://product.dawaai.pk/800/gskpan24329_1680600034_4.webp",
+    "https://product.dawaai.pk/800/gskpan24329_1680600034_4.png",
+    "https://product.dawaai.pk/800/gskpan24329_1680600034_4.jpg"
+  ],
+  "labels": [
+    "Fever",
+    "Pain"
+  ],
+  "description": "This medicine is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains) and to reduce fever.",
+  "link": "https://dawaai.pk/medicine/panadol-5-24329.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
