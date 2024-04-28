@@ -1,0 +1,19 @@
+{
+  "name": "Levemir Flexpen",
+  "generic": "Insulin Detemir (100IU)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novlev20849_1.webp",
+    "https://product.dawaai.pk/800/novlev20849_1.png",
+    "https://product.dawaai.pk/800/novlev20849_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/levemir-20849.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
