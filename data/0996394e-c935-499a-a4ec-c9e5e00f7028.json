@@ -1,0 +1,19 @@
+{
+  "name": "Extor 10mg/160mg tablet",
+  "generic": "Valsartan (10mg)Amlodipine (160mg)",
+  "brand": "Searle",
+  "images": [
+    "https://product.dawaai.pk/800/seaext13208_1.webp",
+    "https://product.dawaai.pk/800/seaext13208_1.png",
+    "https://product.dawaai.pk/800/seaext13208_1.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "Angiotensin-II Antagonist"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/extor-13208.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
