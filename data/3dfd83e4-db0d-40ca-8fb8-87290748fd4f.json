@@ -1,0 +1,20 @@
+{
+  "name": "Dermovate-NN  ointment",
+  "generic": "Clobetasol PropionateNeomycinNystatin",
+  "brand": "GlaxoSmithKline",
+  "images": [
+    "https://product.dawaai.pk/800/gskder17153_1627282393_2.webp",
+    "https://product.dawaai.pk/800/gskder17153_1627282393_2.png",
+    "https://product.dawaai.pk/800/gskder17153_1627282393_2.jpg"
+  ],
+  "labels": [
+    "Antipruritic",
+    "Bacterial infections",
+    "Fungal infections",
+    "Corticosteroid Combinations, Topical"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/dermovate-nn-1-17153.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
