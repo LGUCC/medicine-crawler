@@ -1,0 +1,18 @@
+{
+  "name": "Ospamox 500mg tablet",
+  "generic": "Amoxicillin (500mg)",
+  "brand": "Novartis",
+  "images": [
+    "https://product.dawaai.pk/800/novosp5424_1671868601_1.webp",
+    "https://product.dawaai.pk/800/novosp5424_1671868601_1.png",
+    "https://product.dawaai.pk/800/novosp5424_1671868601_1.jpg"
+  ],
+  "labels": [
+    "Bacterial infections",
+    "Broad-spectrum Penicillin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/ospamox-500mg-5424.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
