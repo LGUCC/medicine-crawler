@@ -1,0 +1,19 @@
+{
+  "name": "Monitor 2.5mg tablet",
+  "generic": "Bisoprolol (2.5mg)",
+  "brand": "Werick",
+  "images": [
+    "https://product.dawaai.pk/800/wermon10710_1.webp",
+    "https://product.dawaai.pk/800/wermon10710_1.png",
+    "https://product.dawaai.pk/800/wermon10710_1.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "Betablocking Agent"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/monitor-1-10710.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
