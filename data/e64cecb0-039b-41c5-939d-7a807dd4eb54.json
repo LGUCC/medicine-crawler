@@ -1,0 +1,20 @@
+{
+  "name": "Healit Skin Ointment  ointment",
+  "generic": "BacitracinLignocaineNeomycinPolymyxin B",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atchea5399_1626250597_3.webp",
+    "https://product.dawaai.pk/800/atchea5399_1626250597_3.png",
+    "https://product.dawaai.pk/800/atchea5399_1626250597_3.jpg"
+  ],
+  "labels": [
+    "Dermal Infections",
+    "Local numbness",
+    "Bacterial infections",
+    "Antibacterial"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/healit-skin-ointment-5399.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
