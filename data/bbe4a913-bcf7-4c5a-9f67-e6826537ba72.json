@@ -1,0 +1,19 @@
+{
+  "name": "Humalog Lispro 100IU injection",
+  "generic": "Insulin Lispro (100IU)",
+  "brand": "Eli Lilly",
+  "images": [
+    "https://product.dawaai.pk/800/elihum20822_1642066256_1.webp",
+    "https://product.dawaai.pk/800/elihum20822_1642066256_1.png",
+    "https://product.dawaai.pk/800/elihum20822_1642066256_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "Insulin lispro is a man-made form of insulin. This drug lowers the amount of sugar in your blood. This medicine is composed of short acting insulin. It works by replacing the insulin that is normally produced by the body and by helping the mobilization of sugar from blood to other parts of the body where it is used to produce energy. Insulin lispro also stops the liver from producing more sugar.",
+  "link": "https://dawaai.pk/medicine/humalog-lispro-20822.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
