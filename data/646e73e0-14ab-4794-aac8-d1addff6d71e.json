@@ -1,0 +1,18 @@
+{
+  "name": "Piomet 15mg/500mg tablet",
+  "generic": "Pioglitazone (15mg)Metformin (500mg)",
+  "brand": "CCL",
+  "images": [
+    "https://product.dawaai.pk/800/cclpio11486_1.webp",
+    "https://product.dawaai.pk/800/cclpio11486_1.png",
+    "https://product.dawaai.pk/800/cclpio11486_1.jpg"
+  ],
+  "labels": [
+    "Type 2 diabetes",
+    "Hypoglycaemic excluding Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/piomet-11486.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
