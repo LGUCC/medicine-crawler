@@ -1,0 +1,19 @@
+{
+  "name": "Pcam 0.5 Gel 25gm gel",
+  "generic": "Piroxicam (25gm)",
+  "brand": "Martin Dow",
+  "images": [
+    "https://product.dawaai.pk/800/merpca36080_1649839774_4.webp",
+    "https://product.dawaai.pk/800/merpca36080_1649839774_4.png",
+    "https://product.dawaai.pk/800/merpca36080_1649839774_4.jpg"
+  ],
+  "labels": [
+    "Pain",
+    "Inflammation",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/pcam-36080.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
