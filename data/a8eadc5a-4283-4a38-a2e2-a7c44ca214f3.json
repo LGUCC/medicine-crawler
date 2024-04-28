@@ -1,0 +1,19 @@
+{
+  "name": "Sofvasc 5mg tablet",
+  "generic": "Amlodipine (5mg)",
+  "brand": "Wilson's",
+  "images": [
+    "https://product.dawaai.pk/800/wilsof290_1639984404_2.webp",
+    "https://product.dawaai.pk/800/wilsof290_1639984404_2.png",
+    "https://product.dawaai.pk/800/wilsof290_1639984404_2.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "Calcium Antagonist"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/sofvasc-5-mg-290.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
