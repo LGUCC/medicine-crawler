@@ -1,0 +1,19 @@
+{
+  "name": "Calpol Paediatric  suspension",
+  "generic": "Paracetamol",
+  "brand": "GlaxoSmithKline",
+  "images": [
+    "https://product.dawaai.pk/800/gskcal742_1631014267_3.webp",
+    "https://product.dawaai.pk/800/gskcal742_1631014267_3.png",
+    "https://product.dawaai.pk/800/gskcal742_1631014267_3.jpg"
+  ],
+  "labels": [
+    "Fever",
+    "Pain",
+    "Non-narcotic Analgesic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/calpol-paediatric-suspension-742.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
