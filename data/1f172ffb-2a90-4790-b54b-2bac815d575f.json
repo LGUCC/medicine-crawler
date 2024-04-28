@@ -1,0 +1,20 @@
+{
+  "name": "Melor 15mg tablet",
+  "generic": "Meloxicam (15mg)",
+  "brand": "Sami",
+  "images": [
+    "https://product.dawaai.pk/800/sammel35663_1643695878_2.webp",
+    "https://product.dawaai.pk/800/sammel35663_1643695878_2.png",
+    "https://product.dawaai.pk/800/sammel35663_1643695878_2.jpg"
+  ],
+  "labels": [
+    "Fever",
+    "Pain",
+    "Inflammation",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/melor-35663.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
