@@ -1,0 +1,19 @@
+{
+  "name": "Mixtard 30 HM Penfill",
+  "generic": "Soluble HM insulin (100IU)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novmix23412_1.webp",
+    "https://product.dawaai.pk/800/novmix23412_1.png",
+    "https://product.dawaai.pk/800/novmix23412_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/mixtard-30-hm-3-23412.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
