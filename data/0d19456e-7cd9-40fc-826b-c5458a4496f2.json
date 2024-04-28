@@ -1,0 +1,19 @@
+{
+  "name": "NovoRapid Flexpen",
+  "generic": "Insulin Aspart (100IU)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novnov20855_1.webp",
+    "https://product.dawaai.pk/800/novnov20855_1.png",
+    "https://product.dawaai.pk/800/novnov20855_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/novorapid-20855.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}

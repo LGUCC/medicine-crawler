@@ -1,0 +1,19 @@
+{
+  "name": "NovoMix 50 Flexpen",
+  "generic": "Insulin Aspart (50%)Insulin Aspart Protamine (50%)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novnov20854_1.webp",
+    "https://product.dawaai.pk/800/novnov20854_1.png",
+    "https://product.dawaai.pk/800/novnov20854_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/novomix-1-20854.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
