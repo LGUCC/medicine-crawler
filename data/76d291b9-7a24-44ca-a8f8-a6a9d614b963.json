@@ -1,0 +1,19 @@
+{
+  "name": "Gaviscon  liquid",
+  "generic": "Alginate Compound",
+  "brand": "Reckitt",
+  "images": [
+    "https://product.dawaai.pk/800/rbgav416_1631014229_3.webp",
+    "https://product.dawaai.pk/800/rbgav416_1631014229_3.png",
+    "https://product.dawaai.pk/800/rbgav416_1631014229_3.jpg"
+  ],
+  "labels": [
+    "Heartburn",
+    "Hiatus hernia",
+    "Antacid, Antiflatulent"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/gaviscon-syrup-416.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
