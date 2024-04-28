@@ -1,0 +1,20 @@
+{
+  "name": "Fastaid 50mg tablet",
+  "generic": "Diclofenac Sodium (50mg)",
+  "brand": "Platinum",
+  "images": [
+    "https://product.dawaai.pk/800/plafas34565_2.webp",
+    "https://product.dawaai.pk/800/plafas34565_2.png",
+    "https://product.dawaai.pk/800/plafas34565_2.jpg"
+  ],
+  "labels": [
+    "Arthritis",
+    "Inflammation",
+    "Pain",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/fastaid-34565.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
