@@ -1,0 +1,19 @@
+{
+  "name": "Insuget Regular 100 IU injection",
+  "generic": "Insulin Regular (100 IU)",
+  "brand": "Getz Pharma",
+  "images": [
+    "https://product.dawaai.pk/800/getins20837_1656928666_1.webp",
+    "https://product.dawaai.pk/800/getins20837_1656928666_1.png",
+    "https://product.dawaai.pk/800/getins20837_1656928666_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/insuget-regular-20837.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}

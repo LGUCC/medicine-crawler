@@ -1,0 +1,19 @@
+{
+  "name": "Insulatard HM Vial",
+  "generic": "Insulin NPH (100IU)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novins20839_1.webp",
+    "https://product.dawaai.pk/800/novins20839_1.png",
+    "https://product.dawaai.pk/800/novins20839_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/insulatard-hm-20839.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
