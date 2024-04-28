@@ -1,0 +1,18 @@
+{
+  "name": "Penro 1gm injection",
+  "generic": "Meropenem (1gm)",
+  "brand": "Bosch",
+  "images": [
+    "https://product.dawaai.pk/800/bospen20697_1661864218_1.webp",
+    "https://product.dawaai.pk/800/bospen20697_1661864218_1.png",
+    "https://product.dawaai.pk/800/bospen20697_1661864218_1.jpg"
+  ],
+  "labels": [
+    "Bacterial infections",
+    "Other Anti-Infective Preps"
+  ],
+  "description": "Meropenem is an intravenous antibiotic used to treat a variety of bacterial infections. Some of these include meningitis, intra-abdominal infection, and pneumonia. To avoid the development of medicine resistance, it should be used only in proven or strongly suspected bacterial infections.",
+  "link": "https://dawaai.pk/medicine/penro-20697.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
