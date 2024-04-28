@@ -1,0 +1,19 @@
+{
+  "name": "Migram 5mg capsule",
+  "generic": "Flunarizine (5mg)",
+  "brand": "Amarant",
+  "images": [
+    "https://product.dawaai.pk/800/amamig45742_1.webp",
+    "https://product.dawaai.pk/800/amamig45742_1.png",
+    "https://product.dawaai.pk/800/amamig45742_1.jpg"
+  ],
+  "labels": [
+    "Prophylaxis of migraine",
+    "Vertigo",
+    "Other CNS Drugs"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/migram-1-45742.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
