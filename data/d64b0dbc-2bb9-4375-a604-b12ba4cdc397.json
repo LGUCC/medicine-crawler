@@ -1,0 +1,20 @@
+{
+  "name": "Mycitracin Plus  ointment",
+  "generic": "NeomycinPolymyxin BBacitracinLignocaine",
+  "brand": "Pfizer",
+  "images": [
+    "https://product.dawaai.pk/800/myc1707_1671866837_1.webp",
+    "https://product.dawaai.pk/800/myc1707_1671866837_1.png",
+    "https://product.dawaai.pk/800/myc1707_1671866837_1.jpg"
+  ],
+  "labels": [
+    "Dermal Infections",
+    "Local numbness",
+    "Bacterial infections",
+    "Antibacterial"
+  ],
+  "description": "Neomycin belongs to a group of medicines known as aminoglycosides. It is an antibiotic which has bactericidal activity against gram-negative aerobic bacilli and some anaerobic bacilli. This medicine is used to decrease the risk of infection after certain intestinal surgeries. Neomycin is used to prevent hepatic (liver) encephalopathy and hypercholesterolemia. It also helps in reducing the symptoms of a hepatic (liver) coma.",
+  "link": "https://dawaai.pk/medicine/mycitracin-plus-1707.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
