@@ -1,0 +1,19 @@
+{
+  "name": "Fastum   gel",
+  "generic": "Ketoprofen",
+  "brand": "Pharmatec",
+  "images": [
+    "https://product.dawaai.pk/800/pha46605_1628677323_2.webp",
+    "https://product.dawaai.pk/800/pha46605_1628677323_2.png",
+    "https://product.dawaai.pk/800/pha46605_1628677323_2.jpg"
+  ],
+  "labels": [
+    "Pain",
+    "Inflammation",
+    "Anti-rheumatic, Topical"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/-46605.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
