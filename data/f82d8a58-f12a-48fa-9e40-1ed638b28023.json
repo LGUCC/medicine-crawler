@@ -1,0 +1,19 @@
+{
+  "name": "Aproxen DS",
+  "generic": "Naproxen (550mg)",
+  "brand": "Schazoo Pharmaceuticals",
+  "images": [
+    "https://product.dawaai.pk/800/schapr35751_1627891830_1.webp",
+    "https://product.dawaai.pk/800/schapr35751_1627891830_1.png",
+    "https://product.dawaai.pk/800/schapr35751_1627891830_1.jpg"
+  ],
+  "labels": [
+    "Pain",
+    "Inflammation",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/aproxen-1-35751.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
