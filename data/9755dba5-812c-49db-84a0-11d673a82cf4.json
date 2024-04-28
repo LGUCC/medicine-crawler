@@ -1,0 +1,20 @@
+{
+  "name": "Medigesic 35mg/450mg tablet",
+  "generic": "Orphenadrine (35mg)Paracetamol (450mg)",
+  "brand": "Wilshire",
+  "images": [
+    "https://product.dawaai.pk/800/wilmed12938_2.webp",
+    "https://product.dawaai.pk/800/wilmed12938_2.png",
+    "https://product.dawaai.pk/800/wilmed12938_2.jpg"
+  ],
+  "labels": [
+    "Muscle spasms",
+    "Fever",
+    "Pain",
+    "Muscle Relaxant"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/medigesic-12938.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
