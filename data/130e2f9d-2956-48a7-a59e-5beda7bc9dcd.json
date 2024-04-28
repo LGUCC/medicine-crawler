@@ -1,0 +1,19 @@
+{
+  "name": "Coversam 4mg/5mg tablet",
+  "generic": "Perindopril (4mg)Amlodipine (5mg)",
+  "brand": "Servier",
+  "images": [
+    "https://product.dawaai.pk/800/sercov21000_1.webp",
+    "https://product.dawaai.pk/800/sercov21000_1.png",
+    "https://product.dawaai.pk/800/sercov21000_1.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "ACE Inhibitor"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/coversam-1-21000.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}

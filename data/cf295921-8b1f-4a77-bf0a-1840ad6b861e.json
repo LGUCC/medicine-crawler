@@ -1,0 +1,19 @@
+{
+  "name": "Coversam 8mg/10mg tablet",
+  "generic": "Perindopril (8mg)Amlodipine (10mg)",
+  "brand": "Servier",
+  "images": [
+    "https://product.dawaai.pk/800/sercov21001_1.webp",
+    "https://product.dawaai.pk/800/sercov21001_1.png",
+    "https://product.dawaai.pk/800/sercov21001_1.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angina",
+    "ACE Inhibitor"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/coversam-2-21001.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
