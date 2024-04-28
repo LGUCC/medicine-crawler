@@ -1,0 +1,15 @@
+{
+  "name": "Lantus 100IU/ml injection",
+  "generic": "Insulin Glargine (100IU)",
+  "brand": "Sanofi",
+  "images": [],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/lantus-20846.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
