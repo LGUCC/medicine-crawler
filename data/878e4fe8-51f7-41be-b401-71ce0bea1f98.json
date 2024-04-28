@@ -1,0 +1,20 @@
+{
+  "name": "Clobederm-NN  ointment",
+  "generic": "Clobetasol PropionateNeomycinNystatin",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atcclo17147_1627282321_1.webp",
+    "https://product.dawaai.pk/800/atcclo17147_1627282321_1.png",
+    "https://product.dawaai.pk/800/atcclo17147_1627282321_1.jpg"
+  ],
+  "labels": [
+    "Antipruritic",
+    "Bacterial infections",
+    "Fungal infections",
+    "Corticosteroid Combinations, Topical"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/clobederm-nn-2-17147.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
