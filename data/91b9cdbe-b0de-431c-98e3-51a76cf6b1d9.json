@@ -1,0 +1,18 @@
+{
+  "name": "Trusopt 0.02 eye drop",
+  "generic": "Dorzolamide (0.02)",
+  "brand": "OBS",
+  "images": [
+    "https://product.dawaai.pk/800/obstru681_1650346394_1.webp",
+    "https://product.dawaai.pk/800/obstru681_1650346394_1.png",
+    "https://product.dawaai.pk/800/obstru681_1650346394_1.jpg"
+  ],
+  "labels": [
+    "Glaucoma",
+    "Miotic, Antiglaucoma Preps"
+  ],
+  "description": "Dorzolamide is mainly used to treat high pressure inside the eye due to glaucoma or any other any kind of eye diseases. Lowering the high pressure inside the eye helps to prevent blindness. This medicine works by decreasing the amount of fluid with the eye.",
+  "link": "https://dawaai.pk/medicine/trusopt-681.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
