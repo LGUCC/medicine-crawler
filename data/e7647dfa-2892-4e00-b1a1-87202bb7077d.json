@@ -1,0 +1,20 @@
+{
+  "name": "Disprin CV 100mg tablet",
+  "generic": "Aspirin (100mg)",
+  "brand": "Reckitt",
+  "images": [
+    "https://product.dawaai.pk/800/recdis18219_2.webp",
+    "https://product.dawaai.pk/800/recdis18219_2.png",
+    "https://product.dawaai.pk/800/recdis18219_2.jpg"
+  ],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/disprin-18219.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
