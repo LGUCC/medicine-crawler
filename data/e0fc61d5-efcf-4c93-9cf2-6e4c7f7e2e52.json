@@ -1,0 +1,18 @@
+{
+  "name": "Solu Medrol 1gm injection",
+  "generic": "Methylprednisolone (1gm)",
+  "brand": "Pfizer",
+  "images": [
+    "https://product.dawaai.pk/800/pfisol37489_1.webp",
+    "https://product.dawaai.pk/800/pfisol37489_1.png",
+    "https://product.dawaai.pk/800/pfisol37489_1.jpg"
+  ],
+  "labels": [
+    "Allergy",
+    "Corticosteroid, Systemic"
+  ],
+  "description": "Methylprednisolone is used for the treatment of conditions such as arthritis, blood disorders, severe allergic reactions, certain cancers, eye conditions, skin/kidney/intestinal/lung diseases, and immune system disorders. It decreases the immune system's response to various diseases to reduce symptoms such as swelling, pain, and allergic-type reactions.",
+  "link": "https://dawaai.pk/medicine/solu-medrol-37489.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
