@@ -1,0 +1,20 @@
+{
+  "name": "Ascard 300mg  tablet",
+  "generic": "Aspirin",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atcasc607_1.webp",
+    "https://product.dawaai.pk/800/atcasc607_1.png",
+    "https://product.dawaai.pk/800/atcasc607_1.jpg"
+  ],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/ascard-607.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
