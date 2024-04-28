@@ -1,0 +1,19 @@
+{
+  "name": "Lukodermine 1% ointment",
+  "generic": "Methoxsalen (1%)",
+  "brand": "LCPW",
+  "images": [
+    "https://product.dawaai.pk/800/lcpluk18432_1.webp",
+    "https://product.dawaai.pk/800/lcpluk18432_1.png",
+    "https://product.dawaai.pk/800/lcpluk18432_1.jpg"
+  ],
+  "labels": [
+    "Psoriasis",
+    "Vertigo",
+    "Antipsoriasis"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/lukodermine-18432.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
