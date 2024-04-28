@@ -1,0 +1,18 @@
+{
+  "name": "Carboplatin 450mg injection",
+  "generic": "Carboplatin (450mg)",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atccar14626_1642768930_1.webp",
+    "https://product.dawaai.pk/800/atccar14626_1642768930_1.png",
+    "https://product.dawaai.pk/800/atccar14626_1642768930_1.jpg"
+  ],
+  "labels": [
+    "Ovarian Cancer",
+    "Cytostatic"
+  ],
+  "description": "Carboplatin is a platinum-containing chemotherapy medicine, which belongs to the alkylating agents group of medicines. It is used to treat various cancers. It prevents growth of cancerous cells by damaging their DNA that aids in its proliferation.",
+  "link": "https://dawaai.pk/medicine/carboplatin-1-14626.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
