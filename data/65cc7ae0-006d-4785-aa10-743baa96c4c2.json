@@ -1,0 +1,20 @@
+{
+  "name": "Loprin 150mg tablet",
+  "generic": "Aspirin (150mg)",
+  "brand": "Highnoon",
+  "images": [
+    "https://product.dawaai.pk/800/higlop18229_1655987168_1.webp",
+    "https://product.dawaai.pk/800/higlop18229_1655987168_1.png",
+    "https://product.dawaai.pk/800/higlop18229_1655987168_1.jpg"
+  ],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/loprin-18229.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
