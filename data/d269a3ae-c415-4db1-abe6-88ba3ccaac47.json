@@ -1,0 +1,19 @@
+{
+  "name": "Humulin-N 100IU injection",
+  "generic": "Insulin NPH (100IU)",
+  "brand": "Eli Lilly",
+  "images": [
+    "https://product.dawaai.pk/800/elihum20831_1639982171_1.webp",
+    "https://product.dawaai.pk/800/elihum20831_1639982171_1.png",
+    "https://product.dawaai.pk/800/elihum20831_1639982171_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/humulin-n-20831.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
