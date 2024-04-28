@@ -1,0 +1,20 @@
+{
+  "name": "Brufen 600mg tablet",
+  "generic": "Ibuprofen (600mg)",
+  "brand": "Abbott Laboratories",
+  "images": [
+    "https://product.dawaai.pk/800/abbbru35198_1644237071_1.webp",
+    "https://product.dawaai.pk/800/abbbru35198_1644237071_1.png",
+    "https://product.dawaai.pk/800/abbbru35198_1644237071_1.jpg"
+  ],
+  "labels": [
+    "Pain",
+    "Menstrual pain",
+    "Inflammation",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/brufen-2-35198.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
