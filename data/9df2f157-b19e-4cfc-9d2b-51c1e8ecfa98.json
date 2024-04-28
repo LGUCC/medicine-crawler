@@ -1,0 +1,16 @@
+{
+  "name": "Eprin 300mg tablet",
+  "generic": "Aspirin (300mg)",
+  "brand": "Epoch",
+  "images": [],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/eprin-1-18225.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
