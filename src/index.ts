@@ -90,7 +90,7 @@ async function scrapEachPages() {
     .map((alphabet) => readFile(alphabet) as { link: string; name: string }[])
     .flat();
   
-  const chunks = chunkifyArray(medicines, Math.ceil(medicines.length / 2));
+  const chunks = chunkifyArray(medicines, Math.ceil(medicines.length / 5));
 
   const SLEEP_DELAY = 200;
   let leftPages = medicines.length;
