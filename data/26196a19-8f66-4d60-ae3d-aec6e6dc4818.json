@@ -1,0 +1,18 @@
+{
+  "name": "Pyodine 0.1 solution",
+  "generic": "Povidone-Iodine (0.1)",
+  "brand": "Brookes",
+  "images": [
+    "https://product.dawaai.pk/800/pyo1574_1639983177_2.webp",
+    "https://product.dawaai.pk/800/pyo1574_1639983177_2.png",
+    "https://product.dawaai.pk/800/pyo1574_1639983177_2.jpg"
+  ],
+  "labels": [
+    "Antiseptic",
+    "Antiseptic & Disinfectant"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/pyodine-solution-1574.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
