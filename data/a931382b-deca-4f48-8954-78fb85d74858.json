@@ -1,0 +1,18 @@
+{
+  "name": "A2A 50mg tablet",
+  "generic": "Losartan Potassium (50mg)",
+  "brand": "Wilson's",
+  "images": [
+    "https://product.dawaai.pk/800/wila2a13340_1627280468_2.webp",
+    "https://product.dawaai.pk/800/wila2a13340_1627280468_2.png",
+    "https://product.dawaai.pk/800/wila2a13340_1627280468_2.jpg"
+  ],
+  "labels": [
+    "Hypertension",
+    "Angiotensin-II Antagonist"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/a2a-2-13340.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
