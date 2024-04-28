@@ -1,0 +1,20 @@
+{
+  "name": "Salmicort 25mcg/250mcg inhaler",
+  "generic": "Fluticasone (25mcg)Salmeterol (250mcg)",
+  "brand": "Macter",
+  "images": [
+    "https://product.dawaai.pk/800/macsal19602_1630068832_3.webp",
+    "https://product.dawaai.pk/800/macsal19602_1630068832_3.png",
+    "https://product.dawaai.pk/800/macsal19602_1630068832_3.jpg"
+  ],
+  "labels": [
+    "Rhinitis",
+    "Hay fever",
+    "Asthma",
+    "Bronchodilator and Anti-asthma Preps: Inhalants"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/salmicort-1-19602.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
