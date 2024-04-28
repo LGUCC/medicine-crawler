@@ -1,0 +1,19 @@
+{
+  "name": "Febrol 500mg tablet",
+  "generic": "Paracetamol (500mg)",
+  "brand": "Barrett",
+  "images": [
+    "https://product.dawaai.pk/800/barfeb24236_1.webp",
+    "https://product.dawaai.pk/800/barfeb24236_1.png",
+    "https://product.dawaai.pk/800/barfeb24236_1.jpg"
+  ],
+  "labels": [
+    "Fever",
+    "Pain",
+    "Non-narcotic Analgesic"
+  ],
+  "description": "This medicine is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains) and to reduce fever.",
+  "link": "https://dawaai.pk/medicine/febrol-2-24236.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
