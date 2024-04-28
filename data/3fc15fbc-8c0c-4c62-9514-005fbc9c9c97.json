@@ -1,0 +1,16 @@
+{
+  "name": "Aspirin 300mg tablet",
+  "generic": "Aspirin (300mg)",
+  "brand": "Euro Pharma",
+  "images": [],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/aspirin-17-18211.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
