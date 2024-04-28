@@ -1,0 +1,20 @@
+{
+  "name": "Brufen 400mg tablet",
+  "generic": "Ibuprofen (400mg)",
+  "brand": "Abbott Laboratories",
+  "images": [
+    "https://product.dawaai.pk/800/abbbru35199_1639981143_2.webp",
+    "https://product.dawaai.pk/800/abbbru35199_1639981143_2.png",
+    "https://product.dawaai.pk/800/abbbru35199_1639981143_2.jpg"
+  ],
+  "labels": [
+    "Pain",
+    "Menstrual pain",
+    "Inflammation",
+    "Anti-rheumatic, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/brufen-3-35199.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
