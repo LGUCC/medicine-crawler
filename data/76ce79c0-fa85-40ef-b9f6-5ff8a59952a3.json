@@ -1,0 +1,19 @@
+{
+  "name": "Ryzodeg 70%/30% injection",
+  "generic": "Insulin Degludec (70%)Insulin Aspart (30%)",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/novryz44362_1.webp",
+    "https://product.dawaai.pk/800/novryz44362_1.png",
+    "https://product.dawaai.pk/800/novryz44362_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes",
+    "Insulin"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/ryzodeg-44362.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
