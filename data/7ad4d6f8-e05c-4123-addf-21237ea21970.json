@@ -1,0 +1,20 @@
+{
+  "name": "Vin 75mg tablet",
+  "generic": "Aspirin (75mg)",
+  "brand": "Saydon",
+  "images": [
+    "https://product.dawaai.pk/800/sayvin18251_1630057774_2.webp",
+    "https://product.dawaai.pk/800/sayvin18251_1630057774_2.png",
+    "https://product.dawaai.pk/800/sayvin18251_1630057774_2.jpg"
+  ],
+  "labels": [
+    "Heart attack",
+    "Angina",
+    "Ischemic stroke",
+    "Anticoagulant/Antiplatelet"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/vin-2-18251.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
