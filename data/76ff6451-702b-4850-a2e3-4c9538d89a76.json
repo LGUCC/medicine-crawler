@@ -1,0 +1,20 @@
+{
+  "name": "Fytosid 100mg injection",
+  "generic": "Etoposide (100mg)",
+  "brand": "Atco",
+  "images": [
+    "https://product.dawaai.pk/800/atcfyt19289_1642768473_1.webp",
+    "https://product.dawaai.pk/800/atcfyt19289_1642768473_1.png",
+    "https://product.dawaai.pk/800/atcfyt19289_1642768473_1.jpg"
+  ],
+  "labels": [
+    "Kaposi's sarcoma",
+    "Lung cancer",
+    "Testicular cancer",
+    "Cytostatic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/fytosid-19289.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
