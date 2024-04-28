@@ -1,0 +1,18 @@
+{
+  "name": "Zyrtec 1mg/ml syrup",
+  "generic": "Cetirizine (1mg)",
+  "brand": "GlaxoSmithKline",
+  "images": [
+    "https://product.dawaai.pk/800/gskzyr18869_1634389972_2.webp",
+    "https://product.dawaai.pk/800/gskzyr18869_1634389972_2.png",
+    "https://product.dawaai.pk/800/gskzyr18869_1634389972_2.jpg"
+  ],
+  "labels": [
+    "Allergy",
+    "Antihistamine, Systemic"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/zyrtec-18869.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
