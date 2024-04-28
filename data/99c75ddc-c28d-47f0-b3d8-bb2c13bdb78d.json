@@ -1,0 +1,18 @@
+{
+  "name": "Dervit 30gm ointment",
+  "generic": "Calcipotriol (30gm)",
+  "brand": "Nabi Qasim",
+  "images": [
+    "https://product.dawaai.pk/800/nabder18425_1.webp",
+    "https://product.dawaai.pk/800/nabder18425_1.png",
+    "https://product.dawaai.pk/800/nabder18425_1.jpg"
+  ],
+  "labels": [
+    "Psoriasis",
+    "Antipsoriasis"
+  ],
+  "description": "Calcipotriol is also known as a form of vitamin D. It is used in the treatment of psoriasis. It is safe for long-term application in psoriatic skin conditions. It inhibits cell proliferation and enhances cell differentiation in the skin of patients with psoriasis.",
+  "link": "https://dawaai.pk/medicine/dervit-18425.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
