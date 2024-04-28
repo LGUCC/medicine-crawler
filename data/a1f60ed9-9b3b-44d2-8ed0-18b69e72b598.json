@@ -1,0 +1,19 @@
+{
+  "name": "Provas 300mg/2ml injection",
+  "generic": "Paracetamol (300mg)",
+  "brand": "Sami",
+  "images": [
+    "https://product.dawaai.pk/800/sampro24465_1643704056_1.webp",
+    "https://product.dawaai.pk/800/sampro24465_1643704056_1.png",
+    "https://product.dawaai.pk/800/sampro24465_1643704056_1.jpg"
+  ],
+  "labels": [
+    "Fever",
+    "Pain",
+    "Non-narcotic Analgesic"
+  ],
+  "description": "This medicine is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains) and to reduce fever.",
+  "link": "https://dawaai.pk/medicine/provas-1-24465.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
