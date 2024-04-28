@@ -1,0 +1,19 @@
+{
+  "name": "Imuran 50 mg tablet",
+  "generic": "Azathioprine (50 mg)",
+  "brand": "GlaxoSmithKline",
+  "images": [
+    "https://product.dawaai.pk/800/gskimu517_1.webp",
+    "https://product.dawaai.pk/800/gskimu517_1.png",
+    "https://product.dawaai.pk/800/gskimu517_1.jpg"
+  ],
+  "labels": [
+    "Organ transplantation",
+    "Rheumatoid arthritis",
+    "Immunomodulator"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/imuran-tabs-50mg-517.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}

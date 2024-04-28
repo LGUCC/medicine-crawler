@@ -1,0 +1,18 @@
+{
+  "name": "Insulin Pen  injection",
+  "generic": "Insulin",
+  "brand": "Novo Nordisk",
+  "images": [
+    "https://product.dawaai.pk/800/ins1385_1.webp",
+    "https://product.dawaai.pk/800/ins1385_1.png",
+    "https://product.dawaai.pk/800/ins1385_1.jpg"
+  ],
+  "labels": [
+    "Type 1 Diabetes",
+    "Type 2 diabetes"
+  ],
+  "description": "Man-made insulin is a medicine that acts exactly like natural human insulin. Our bodies produce insulin that is responsible for controlling the amount of glucose in the blood, regulating the metabolism of carbohydrates, proteins, fats, and storing glucose in your liver, muscles, and fat. It is an effective treatment for Diabetes mellitus type I where the body doesn’t produce enough insulin to control sugar levels. It is also used for diabetes type II in some cases. There are different types of insulin depending upon its onset and duration of action.",
+  "link": "https://dawaai.pk/medicine/insulin-pen-1385.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
