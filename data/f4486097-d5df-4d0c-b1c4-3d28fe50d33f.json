@@ -1,0 +1,18 @@
+{
+  "name": "Cycin 500mg tablet",
+  "generic": "Ciprofloxacin (500mg)",
+  "brand": "High-Q",
+  "images": [
+    "https://product.dawaai.pk/800/higcyc4937_1643977781_1.webp",
+    "https://product.dawaai.pk/800/higcyc4937_1643977781_1.png",
+    "https://product.dawaai.pk/800/higcyc4937_1643977781_1.jpg"
+  ],
+  "labels": [
+    "Bacterial infections",
+    "Quinolone"
+  ],
+  "description": "",
+  "link": "https://dawaai.pk/medicine/cycin-500mg-4937.html",
+  "version": "1.0.0",
+  "label": "medicine"
+}
