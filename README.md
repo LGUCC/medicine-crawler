@@ -14,4 +14,4 @@ if you want to scrap the latest data here are the instructions on how to do that
 **1. How did you make 4000+ commits?**
 
 Instead of running this crawler locally, i decided to run it on the codespace which is free but the only limitation is that GitHub automatically closes them if they remain idle for 4 hours. 
-To save the codespace state I wrote a [handy dandy bash script](https://github.com/zain-ul-din-zafar/medicine-crawler/blob/master/commit.bash) that pushed my code to GitHub after visiting each page. 
+To save the codespace state I wrote a [handy dandy bash script](https://github.com/zain-ul-din-zafar/medicine-crawler/blob/master/commit.bash) that pushed my code to GitHub after crafting each page data. 
